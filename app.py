@@ -49,7 +49,8 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("🏁 AI Race Steward Assistant")
+st.title("TRACKGUARD-AI
+")
 st.caption("Automated Track Limits Detection — TrackShift 2026, Theme 2")
 
 # ----------------------------------------------------------------------
