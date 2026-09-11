@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+*.pt
+output/evidence/*.jpg
+output/replays/*.mp4
+output/logs/*.json
+output/annotated_output.mp4
+!output/evidence/.gitkeep
+!output/replays/.gitkeep
+!output/logs/.gitkeep
