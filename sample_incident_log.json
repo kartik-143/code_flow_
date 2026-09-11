@@ -1,0 +1,13 @@
+[
+  {
+    "incident_id": 1,
+    "car_number": null,
+    "timestamp": "00:04.03",
+    "frame": 121,
+    "turn": "Turn 3",
+    "status": "VIOLATION",
+    "confidence": 0.891,
+    "evidence": "output/evidence/incident_001.jpg",
+    "replay": "output/replays/incident_001.mp4"
+  }
+]

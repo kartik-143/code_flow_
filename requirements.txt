@@ -1,0 +1,17 @@
+# Core
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Dashboard
+streamlit>=1.32.0
+
+# Pretrained vehicle detection (primary path).
+# If this can't be installed / weights can't download in your
+# environment, the system automatically falls back to a classical-CV
+# vehicle detector (background subtraction) — no code changes needed.
+ultralytics>=8.1.0
+
+# Optional: best-effort car-number OCR (safe to omit; system degrades
+# gracefully with car_number = null in the log if not installed)
+# easyocr>=1.7.0
